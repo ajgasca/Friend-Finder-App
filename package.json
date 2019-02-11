@@ -1,0 +1,24 @@
+{
+  "name": "Friend-Finder-App",
+  "version": "1.0.0",
+  "description": "Application that utilizes Javascript, Node.js, and Express.js to match you with your new best friend!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajgasca/Friend-Finder-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajgasca/Friend-Finder-App/issues"
+  },
+  "homepage": "https://github.com/ajgasca/Friend-Finder-App#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
